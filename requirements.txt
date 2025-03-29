@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+langchain-qdrant
+langchain-ollama
+qdrant-client
+pypdf
+ollama
+python-dotenv
+tqdm
